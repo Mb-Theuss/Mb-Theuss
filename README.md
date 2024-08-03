@@ -6,7 +6,7 @@ Meu nome é Matheus
 
 ☆ Estou me desenvolvendo na linguagem Javascript
 
-☆ Utilizo esse espaço para minha organização e compartilhamento dos meus prjetos desenvolvidos 
+☆ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ![](https://media1.tenor.com/m/opEhK3LHEAoAAAAC/taekwondo-stickerman.gif)
 
